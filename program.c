@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define makro "oOo...... Exercícios CLi sobre Matrizes em STR ......oOo"
+#define makro "oOo...... Exercícios CLi sobre Matrizes tipo STR ......oOo"
 
 int m_string()
 {
