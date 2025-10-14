@@ -2,23 +2,6 @@
 
 #define makro "oOo...... Exercícios CLi sobre Matrizes em STR ......oOo"
 
-int m_integer()
-{
-
-   int m[3][2] = {1, 2, 3, 4, 5, 6};
-
-   for(int i = 0; i < 3; i++)
-   {
-      for(int j = 0; j < 2; j++)
-      {
-         printf("%d %d %d \n", i, j, m[i][j]);
-      }
-   }
-
-   return 0;
-}
-
-
 int m_string()
 {
    char m[2][50];
