@@ -38,8 +38,7 @@ int main(void)
 {
 
    printf("\n\n %s \n\n", makro);
-   m_integer();
-//   m_string();
+   m_string();
 
    return 0;
 }
